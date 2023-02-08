@@ -94,5 +94,5 @@
 
 ## 演讲和讲义
 
-  - 周会分享：[内部算法小竞赛题解](./算法.pptx)
+  - 周会分享：[内部算法小竞赛题解](https://github.com/mydaoyuan/resume/blob/main/%E7%AE%97%E6%B3%95.pptx)
     
